@@ -7,7 +7,6 @@ Note that the rating values are saved as strings in the object and you may need 
 //
 ////solution
 //
-// The global variable
 var watchList = [
   {
     "Title": "Inception",
